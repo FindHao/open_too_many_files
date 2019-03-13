@@ -11,8 +11,8 @@ or download release package and unzip it.
 # add to your /usr/bin/
 ```bash
 cd open_too_many_files
-cp whoisthebadboy.py /usr/bin/
-chmod +x /usr/bin/whoisthebadboy.py
+sudo cp whoisthebadboy.py /usr/bin/
+sudo chmod +x /usr/bin/whoisthebadboy.py
 ```
 
 # usage
